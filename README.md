@@ -1,1 +1,1 @@
-# Photo editing app usiing Electron.js
+# Photo editing app using Electron.js
